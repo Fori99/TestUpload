@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\bin\Debug\net8.0\GitHub Test.exe
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\bin\Debug\net8.0\GitHub Test.deps.json
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\bin\Debug\net8.0\GitHub Test.runtimeconfig.json
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\bin\Debug\net8.0\GitHub Test.dll
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\bin\Debug\net8.0\GitHub Test.pdb
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\obj\Debug\net8.0\GitHub Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\obj\Debug\net8.0\GitHub Test.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\obj\Debug\net8.0\GitHub Test.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\obj\Debug\net8.0\GitHub Test.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\obj\Debug\net8.0\GitHub Test.sourcelink.json
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\obj\Debug\net8.0\GitHub Test.dll
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\obj\Debug\net8.0\refint\GitHub Test.dll
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\obj\Debug\net8.0\GitHub Test.pdb
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\obj\Debug\net8.0\GitHub Test.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\TestUpload\C#\RM1\GitHub Test\obj\Debug\net8.0\ref\GitHub Test.dll
